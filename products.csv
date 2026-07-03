@@ -1,0 +1,59 @@
+product_id,product_name,category,sub_category,unit_price
+PROD0001,Galaxy S Series Phone,Electronics,Mobiles,7049.7
+PROD0002,Redmi Note Pro,Electronics,Mobiles,9502.63
+PROD0003,iPhone Basic,Electronics,Mobiles,2417.13
+PROD0004,OnePlus Nord,Electronics,Mobiles,34639.47
+PROD0005,Realme Narzo,Electronics,Mobiles,1659.64
+PROD0006,ThinkPad E-Series,Electronics,Laptops,12873.05
+PROD0007,MacBook Air Base,Electronics,Laptops,19173.35
+PROD0008,HP Pavilion 15,Electronics,Laptops,33663.88
+PROD0009,Dell Inspiron 14,Electronics,Laptops,44482.7
+PROD0010,Asus VivoBook,Electronics,Laptops,34341.93
+PROD0011,Wireless Mouse,Electronics,Accessories,3909.06
+PROD0012,Bluetooth Earbuds,Electronics,Accessories,41792.47
+PROD0013,USB-C Hub,Electronics,Accessories,44367.6
+PROD0014,Laptop Sleeve,Electronics,Accessories,39153.54
+PROD0015,Power Bank 10000mAh,Electronics,Accessories,22556.98
+PROD0016,Ergonomic Office Chair,Furniture,Chairs,6455.04
+PROD0017,Wooden Dining Chair,Furniture,Chairs,8723.48
+PROD0018,Recliner Chair,Furniture,Chairs,5119.25
+PROD0019,Study Chair,Furniture,Chairs,7822.63
+PROD0020,Study Table,Furniture,Tables,1614.27
+PROD0021,Coffee Table,Furniture,Tables,13473.91
+PROD0022,Dining Table Set,Furniture,Tables,7403.78
+PROD0023,Office Desk,Furniture,Tables,6249.86
+PROD0024,Bookshelf 5-Tier,Furniture,Storage,11356.34
+PROD0025,Wardrobe 3-Door,Furniture,Storage,13595.94
+PROD0026,Shoe Rack,Furniture,Storage,11053.67
+PROD0027,TV Unit,Furniture,Storage,9880.97
+PROD0028,Men's Cotton T-Shirt,Clothing,Men,2663.61
+PROD0029,Men's Formal Shirt,Clothing,Men,2423.68
+PROD0030,Men's Jeans,Clothing,Men,1704.75
+PROD0031,Men's Jacket,Clothing,Men,1518.35
+PROD0032,Women's Kurti,Clothing,Women,2531.93
+PROD0033,Women's Jeans,Clothing,Women,413.52
+PROD0034,Women's Saree,Clothing,Women,2987.76
+PROD0035,Women's Top,Clothing,Women,1699.5
+PROD0036,Kids T-Shirt Set,Clothing,Kids,1367.15
+PROD0037,Kids Shorts,Clothing,Kids,2283.96
+PROD0038,Kids Winter Jacket,Clothing,Kids,1804.79
+PROD0039,Basmati Rice 5kg,Grocery,Staples,487.71
+PROD0040,Wheat Flour 5kg,Grocery,Staples,585.05
+PROD0041,Sugar 1kg,Grocery,Staples,90.9
+PROD0042,Cooking Oil 1L,Grocery,Staples,296.5
+PROD0043,Green Tea Pack,Grocery,Beverages,387.33
+PROD0044,Instant Coffee Jar,Grocery,Beverages,307.87
+PROD0045,Fruit Juice Pack,Grocery,Beverages,752.48
+PROD0046,Namkeen Mix Pack,Grocery,Snacks,441.15
+PROD0047,Biscuit Family Pack,Grocery,Snacks,408.09
+PROD0048,Dry Fruits Combo,Grocery,Snacks,570.16
+PROD0049,Non-Stick Pan Set,Home & Kitchen,Cookware,664.46
+PROD0050,Pressure Cooker 5L,Home & Kitchen,Cookware,3762.7
+PROD0051,Kitchen Knife Set,Home & Kitchen,Cookware,1252.01
+PROD0052,Mixer Grinder,Home & Kitchen,Appliances,5859.29
+PROD0053,Electric Kettle,Home & Kitchen,Appliances,3325.38
+PROD0054,Room Heater,Home & Kitchen,Appliances,5140.73
+PROD0055,Air Fryer,Home & Kitchen,Appliances,1057.25
+PROD0056,Wall Clock,Home & Kitchen,Decor,5516.5
+PROD0057,Photo Frame Set,Home & Kitchen,Decor,6582.54
+PROD0058,LED String Lights,Home & Kitchen,Decor,4962.96

@@ -1,0 +1,29 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+
+# Environment / secrets
+.env
+*.env.local
+
+# Logs
+*.log
+
+# Generated exports (uncomment if you regenerate large exports locally)
+# *.csv.bak
+
+# Python (if using the optional data-generation script)
+__pycache__/
+*.pyc
+venv/
+.venv/
